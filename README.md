@@ -1,4 +1,11 @@
-# LLM-Open-Source-Plugin
-ChatGPT being the benchmark for the most advanced LLM, automating the tasks on third party applications including Canva, Youtube, Expedia, Kayak by developing a plugins to communicate with external applications. These plugins serve to utilize the third party applications and generate presentations or any other task based on the user prompt. However, there remains a gap in existence of external plugins built on top of open-source LLM models introduced by microsoft, google, and other organizations. 
-This project aids to bridge this gap by introducing two plugins - 1. Youtube Video Summarizer
-2. AIPDF for extracting the content from youtube video or pdf and summarzing the content, generating questions and answers related to the content or answering to the questions asked by the user based on the content.
+#External Plugins for Open-Source LLM Models
+
+This project introduces two innovative plugins designed to enhance the capabilities of open-source large language models (LLMs) by automating tasks on third-party platforms like YouTube and PDF documents. While tools such as ChatGPT provide advanced plugins for various applications, there remains a gap for similar solutions in the open-source LLM space. This repository bridges that gap by offering:
+
+1. YouTube Video Summarizer Plugin
+Summarizes the content of YouTube videos, generates key questions and answers, and provides insights or answers queries based on the video content.
+
+2. AIPDF Plugin
+Extracts content from PDF documents, offering summarization, question generation, and the ability to answer user questions directly from the extracted text.
+
+These plugins allow seamless content extraction and interaction, opening up the potential for enhanced productivity and automation in a variety of tasks.
