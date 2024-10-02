@@ -1,0 +1,9 @@
+streamlit
+sentencepiece
+accelerate
+transformers
+youtube_transcript_api
+pytube
+gradio
+nltk
+easygoogletranslate
